@@ -7,3 +7,4 @@ This is a basic keylogger project developed for the SkillCraft Technology Intern
 - Saves logs to a file
 
 
+ 
